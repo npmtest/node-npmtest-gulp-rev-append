@@ -1,33 +1,33 @@
 <svg height="478" width="720" xmlns="http://www.w3.org/2000/svg">
 <rect height="478" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-18 06:17:42 +0000    86638 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-18 06:17:42 +0000      243 bytes  CHANGELOG</tspan>
-<tspan x="10" y="58">  2.  2017-04-18 06:17:42 +0000     1057 bytes  LICENSE-MIT</tspan>
-<tspan x="10" y="74">  3.  2017-04-18 06:17:42 +0000     5084 bytes  README.md</tspan>
-<tspan x="10" y="90">  4.  2017-04-18 06:17:42 +0000      506 bytes  features/hash-absolute-path.feature</tspan>
-<tspan x="10" y="106">  5.  2017-04-18 06:17:42 +0000      819 bytes  features/hash-css-url-path.feature</tspan>
-<tspan x="10" y="122">  6.  2017-04-18 06:17:42 +0000      989 bytes  features/hash-filename.feature</tspan>
-<tspan x="10" y="138">  7.  2017-04-18 06:17:42 +0000      561 bytes  features/step_definitions/hash-absolute-path.ste\</tspan>
+<tspan x="10" y="26">  0.  2017-04-18 06:18:47 +0000    86638 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-18 06:18:47 +0000      243 bytes  CHANGELOG</tspan>
+<tspan x="10" y="58">  2.  2017-04-18 06:18:47 +0000     1057 bytes  LICENSE-MIT</tspan>
+<tspan x="10" y="74">  3.  2017-04-18 06:18:47 +0000     5084 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-18 06:18:47 +0000      506 bytes  features/hash-absolute-path.feature</tspan>
+<tspan x="10" y="106">  5.  2017-04-18 06:18:47 +0000      819 bytes  features/hash-css-url-path.feature</tspan>
+<tspan x="10" y="122">  6.  2017-04-18 06:18:47 +0000      989 bytes  features/hash-filename.feature</tspan>
+<tspan x="10" y="138">  7.  2017-04-18 06:18:47 +0000      561 bytes  features/step_definitions/hash-absolute-path.ste\</tspan>
 <tspan x="10" y="154">ps.js</tspan>
-<tspan x="10" y="170">  8.  2017-04-18 06:17:42 +0000      960 bytes  features/step_definitions/hash-css-url-path.step\</tspan>
+<tspan x="10" y="170">  8.  2017-04-18 06:18:47 +0000      960 bytes  features/step_definitions/hash-css-url-path.step\</tspan>
 <tspan x="10" y="186">s.js</tspan>
-<tspan x="10" y="202">  9.  2017-04-18 06:17:42 +0000     3461 bytes  features/step_definitions/hash-filename.steps.js</tspan>
-<tspan x="10" y="218"> 10.  2017-04-18 06:17:42 +0000      504 bytes  features/support/world.js</tspan>
-<tspan x="10" y="234"> 11.  2017-04-18 06:17:42 +0000     2104 bytes  index.js</tspan>
-<tspan x="10" y="250"> 12.  2017-04-18 06:17:42 +0000     2657 bytes  package.json</tspan>
-<tspan x="10" y="266"> 13.  2017-04-18 06:17:42 +0000      361 bytes  test/fixtures/static/absolute-path-index.html</tspan>
-<tspan x="10" y="282"> 14.  2017-04-18 06:17:42 +0000      412 bytes  test/fixtures/static/css-background-index.html</tspan>
-<tspan x="10" y="298"> 15.  2017-04-18 06:17:42 +0000      371 bytes  test/fixtures/static/css-url-index.html</tspan>
-<tspan x="10" y="314"> 16.  2017-04-18 06:17:42 +0000      195 bytes  test/fixtures/static/image-element-post-class.ht\</tspan>
+<tspan x="10" y="202">  9.  2017-04-18 06:18:47 +0000     3461 bytes  features/step_definitions/hash-filename.steps.js</tspan>
+<tspan x="10" y="218"> 10.  2017-04-18 06:18:47 +0000      504 bytes  features/support/world.js</tspan>
+<tspan x="10" y="234"> 11.  2017-04-18 06:18:47 +0000     2104 bytes  index.js</tspan>
+<tspan x="10" y="250"> 12.  2017-04-18 06:18:47 +0000     2657 bytes  package.json</tspan>
+<tspan x="10" y="266"> 13.  2017-04-18 06:18:47 +0000      361 bytes  test/fixtures/static/absolute-path-index.html</tspan>
+<tspan x="10" y="282"> 14.  2017-04-18 06:18:47 +0000      412 bytes  test/fixtures/static/css-background-index.html</tspan>
+<tspan x="10" y="298"> 15.  2017-04-18 06:18:47 +0000      371 bytes  test/fixtures/static/css-url-index.html</tspan>
+<tspan x="10" y="314"> 16.  2017-04-18 06:18:47 +0000      195 bytes  test/fixtures/static/image-element-post-class.ht\</tspan>
 <tspan x="10" y="330">ml</tspan>
-<tspan x="10" y="346"> 17.  2017-04-18 06:17:42 +0000    32697 bytes  test/fixtures/static/images/icon.jpg</tspan>
-<tspan x="10" y="362"> 18.  2017-04-18 06:17:42 +0000    32697 bytes  test/fixtures/static/img/file.jpg</tspan>
-<tspan x="10" y="378"> 19.  2017-04-18 06:17:42 +0000      357 bytes  test/fixtures/static/index.html</tspan>
-<tspan x="10" y="394"> 20.  2017-04-18 06:17:42 +0000      358 bytes  test/fixtures/static/multiple-index.html</tspan>
-<tspan x="10" y="410"> 21.  2017-04-18 06:17:42 +0000       72 bytes  test/fixtures/static/script/script-one.js</tspan>
-<tspan x="10" y="426"> 22.  2017-04-18 06:17:42 +0000       74 bytes  test/fixtures/static/script/script-three.js</tspan>
-<tspan x="10" y="442"> 23.  2017-04-18 06:17:42 +0000       72 bytes  test/fixtures/static/script/script-two.js</tspan>
-<tspan x="10" y="458"> 24.  2017-04-18 06:17:42 +0000       27 bytes  test/fixtures/static/style/style-one.css</tspan>
+<tspan x="10" y="346"> 17.  2017-04-18 06:18:47 +0000    32697 bytes  test/fixtures/static/images/icon.jpg</tspan>
+<tspan x="10" y="362"> 18.  2017-04-18 06:18:47 +0000    32697 bytes  test/fixtures/static/img/file.jpg</tspan>
+<tspan x="10" y="378"> 19.  2017-04-18 06:18:47 +0000      357 bytes  test/fixtures/static/index.html</tspan>
+<tspan x="10" y="394"> 20.  2017-04-18 06:18:47 +0000      358 bytes  test/fixtures/static/multiple-index.html</tspan>
+<tspan x="10" y="410"> 21.  2017-04-18 06:18:47 +0000       72 bytes  test/fixtures/static/script/script-one.js</tspan>
+<tspan x="10" y="426"> 22.  2017-04-18 06:18:47 +0000       74 bytes  test/fixtures/static/script/script-three.js</tspan>
+<tspan x="10" y="442"> 23.  2017-04-18 06:18:47 +0000       72 bytes  test/fixtures/static/script/script-two.js</tspan>
+<tspan x="10" y="458"> 24.  2017-04-18 06:18:47 +0000       27 bytes  test/fixtures/static/style/style-one.css</tspan>
 </text>
 </svg>
